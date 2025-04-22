@@ -76,5 +76,5 @@
 - NumPy
 - Pillow (PIL)
 - Tkinter (通常随 Python 一起安装)
-
+- pyperclip(用于把生成的代码自动复制到剪切板)
 这个工具箱特别适合需要快速验证 OpenCV 算法效果或调试参数的场景，通过可视化交互大大提高了工作效率。
